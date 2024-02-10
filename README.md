@@ -1,5 +1,7 @@
-# powerlevel9.config
-PowerLevel9 personal custom configuration
+# powerlevel9k.config
+PowerLevel9k personal custom configuration
+
+https://github.com/Powerlevel9k/powerlevel9k
 
 
 how the terminal looks
